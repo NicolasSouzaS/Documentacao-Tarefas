@@ -7,10 +7,11 @@
 > ## Principio/Objetivo
 * Data 08/05/2023 recebemos o trabalho de criar uma aplicação utilizando diversas ferramentas tais com o objetivo voltado para uma aplicação web, recorremos a linguagem de programação, um editor de código, gerenciador de banco de dados, um gerenciador de dependencias, ferramenta de teste e containers
 #
-> ## Ferramentas
+> ## Ferramentas utilizadas para a aplicação:
+[![Ferramentas utilizadas](https://skillicons.dev/icons?i=java,maven,eclipse,spring,jenkins,github,docker,postman,)](#)
 
 ## Linguagem de programação:Java (SE - 17)
-[![Edito de código Ecplise](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+[![Linguagem de programação Java](https://skillicons.dev/icons?i=java)](https://www.javatpoint.com/java-tutorial)
 
 
  ## O que é Java ? Historia Java
@@ -25,8 +26,11 @@
 
 * Utilizando a mesma criamos diversas classes e interfaces para a ajuda de ações dentro do sistema, criamos classes voltadas para o objetivo de serem Controllers, Domains e Repositorys, classes setadas com essas funções vem junto da ajuda de uma outra ferramenta chamada "Spring Boot" a mesma ajuda a velocidade de criação de uma aplicação web.
 #
+## Forma de adquirição da ferramenta:
+## [![Linguagem de programação Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+#
 ## Editor de código Eclipse
-[![Edito de código Ecplise](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
+[![Editor de código Ecplise](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/documentation/)
 
 ## O que é editor de código ?
 * Um editor de código é um programa de computador utilizado para escrever e editar código-fonte de programas. Ele permite que os programadores escrevam e editem o código-fonte com recursos que ajudam a detectar erros e facilitam a navegação e edição do código.
@@ -39,4 +43,9 @@
 * Utilizamos o editor de código IDE Eclipse para desenvolver com maior performace a linguagem de desenvolvimento de aplicação Java, criamos e utilizamos diversas classes e interfaces, o editor de código nos disponibiliza diversas possibilidades como criação de packeges(pacotes) e integração dos mesmos com a implementação com gerenciadores de banco de dados.
 #
 ## Utilização da ferramenta:
-* A utilização da ferramenta se dedicou a implementar a conexão com o banco de dados, criar tabelas dentro do banco, inserção de dados (setters), listagem dos dados (getters)
+* A utilização da ferramenta se dedicou e teve como objetivo principal o auxilio de digitação e suporte para o desenvolvimento melhor até o final da aplicação. Resumidamente a funcionalidade da ferramenta se destaca para uma edição de código que te guia de melhor forma para o objetivo.
+#
+## Forma de adquirição da ferramenta:
+## [![Editor de código Ecplise](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/downloads/packages/)
+#
+## 
