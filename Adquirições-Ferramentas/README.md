@@ -1,7 +1,8 @@
 # Java (SE- 17)
 > ## Forma de adquirição da ferramenta:
 * Link alocado ao icone
-
+    * Recomendação, procure um pouco a fundo para contribuir com a variavel JAVA_HOME
+    
     [![Linguagem de programação Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 #
 
@@ -29,6 +30,13 @@ Caso contrario.: Peço que procure em "Find" o nome da ferramenta que deseja, no
 
     [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/downloads/)
 #
+## Maven
+> ## Forma de adquirir a ferramenta Maven:
+ * Link alocado ao icone
+    * Obs, recomendo procurar a fundo para setar MAVEN_HOME
+
+    [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/install.html)
+
 ## Docker
 > ## Forma de adquirir a ferramenta Docker:
 * Link alocado ao icone
